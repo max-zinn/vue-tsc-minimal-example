@@ -1,0 +1,17 @@
+{
+  "name": "vue-tsc-minimal-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "vue-tsc": "vue-tsc --noEmit"
+  },
+  "private": true,
+  "dependencies": {
+    "typescript": "^4.9.5",
+    "vue": "^3.4.15"
+  },
+  "devDependencies": {
+    "vue-tsc": "^1.8.27"
+  }
+}
